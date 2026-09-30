@@ -1,0 +1,12 @@
+.venv/
+runs/
+__pycache__/
+*.pyc
+*.webm
+*.avi
+*.mp4
+labels.cache
+yolov8n.pt
+# Local-only dataset config (contains absolute machine path).
+# The public template is dataset.yaml.example — copy it to dataset.yaml to train.
+dataset.yaml

@@ -1,0 +1,10 @@
+path: .  # dataset root (set to folder containing images/ and labels/)
+train: images/train
+val: images/val
+
+names:
+  0: ally_champion
+  1: enemy_champion
+  2: ally_minion
+  3: player
+  4: enemy_minion
